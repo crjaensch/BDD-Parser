@@ -8,8 +8,8 @@ brew install rakudo-star
 ```
 2) Download the content of this repo using:
 ```
-git clone ...
-cd ...
+git clone https://github.com/crjaensch/BDD-Parser.git
+cd BDD-Parser
 ```
 
 ## Code Execution
