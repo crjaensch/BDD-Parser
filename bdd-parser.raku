@@ -157,7 +157,7 @@ class GherkinActions {
 }
 
 sub MAIN(
-    Str $filename = './scenario1.txt',
+    Str $filename = './scenario1.feature',
     Bool :$debug = True
 ) {
     my $content = slurp $filename;

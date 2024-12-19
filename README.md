@@ -16,7 +16,7 @@ cd BDD-Parser
 Assuming you have installed the Raku compiler, and downloaded the git repo as described above, 
 the BDD scenario parser can be executed, using the following command:
 ```
-raku bdd-parser.raku [filename-with-BDD-scenarios.txt]
+raku bdd-parser.raku [BDD-scenarios-feature-filename]
 ```
 
 
